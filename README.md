@@ -1,5 +1,5 @@
 # Expense-Management-System
-This project is an expense management system that is intended to be used by small to mesium sized businesses.
+This project is an expense management system that is intended to be used by small to medium sized businesses.
 
 Instructions to help navigate the website:
 1)	From the home page click “Demo” from the navigation bar or the “Explore Demo” button. This will take you to the main project implementation.
